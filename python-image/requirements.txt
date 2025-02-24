@@ -1,0 +1,11 @@
+psycopg2
+sqlalchemy
+psycopg2-binary
+python-dotenv
+textblob
+db
+requests
+pandas
+matplotlib
+streamlit
+kafka-python
